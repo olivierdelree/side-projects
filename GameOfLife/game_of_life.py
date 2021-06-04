@@ -11,7 +11,7 @@ Options:
                     [default: 200]
     -s <size>, --size <size>
                     Size of the board to use. For sizes larger than
-                    50, the refresh-speed is very likely to be heavily
+                    100, the refresh-speed is very likely to be heavily
                     impacted. [default: 100]
     -p <probability>, --probability <probability>
                     The probability of any cell being live when
