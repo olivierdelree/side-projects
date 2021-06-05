@@ -1,5 +1,4 @@
-"""
-This is a simple simulation of Conway's Game of Life using matplotlib.
+"""A simple simulation of Conway's Game of Life using matplotlib.
 
 Usage:
     game_of_life.py [options]
@@ -12,10 +11,10 @@ Options:
     -s <size>, --size <size>
                     Size of the board to use. For sizes larger than
                     100, the refresh-speed is very likely to be heavily
-                    impacted. [default: 100]
+                    impacted. [default: 50]
     -p <probability>, --probability <probability>
                     The probability of any cell being live when
-                    generating the board. [default: 0.1]
+                    generating the board. [default: 0.2]
 
 ------------------------------------------------------------------------
 
